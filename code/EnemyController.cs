@@ -5,7 +5,16 @@ using Photon.Pun;
 
 public class EnemyController : MonoBehaviourPunCallbacks
 {
-
+    /// <summary>
+    /// ok dumb gth skids this is how you set it up
+    /// go to the timmy folder and download everything make sure to download this cs too
+    /// go to gorillaplayer and set the tag to Player
+    /// and there
+    /// to fix the issue where your view cant see the timmy make sure you have the Jumpscare tag on the timmy or NonCollidable dont set it for everytag on the timmy
+    /// if it still doesnt work change some tags on the timmy to default or sum shit idfk i forgot
+    /// hope you enjoy making your shitty skidded gth copy for it to get modded
+    /// </summary>
+    
     public float moveSpeed = 3f;
     public float chaseRange = 10f;
     public float stoppingDistance = 1f;
